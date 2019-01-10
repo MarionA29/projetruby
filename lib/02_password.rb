@@ -17,6 +17,11 @@ def welcome_screen (key, word)
   word = login
   end
   puts "Bienvenue dans ton espace secret"
+  puts "********************************"
+  puts "*                              *"
+  puts "*         TOP SECRET           *"
+  puts "*                              *"
+  puts "********************************"
 end
 
 def perform
